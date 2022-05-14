@@ -14,7 +14,7 @@
     "@google-cloud/storage": "2.5.2",
     "commander": "^2.11.0",
     "lodash": "^4.17.4",
-    "yargs": "7.1.0"
+    "yargs": "13.2.4"
   },
   "devDependencies": {
     "eslint": "^6.3.0"
